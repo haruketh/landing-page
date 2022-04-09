@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>オフィシャルアナウンス on DeFiGeek Community</title><link>/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/</link><description>Recent content in オフィシャルアナウンス on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 27 Mar 2022 15:00:00 +0000</lastBuildDate><atom:link href="/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年3月度開発活動報告</title><link>/blog/2022-3/</link><pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate><guid>/blog/2022-3/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>オフィシャルアナウンス on DeFiGeek Community</title><link>/landing-page/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/</link><description>Recent content in オフィシャルアナウンス on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 27 Mar 2022 15:00:00 +0000</lastBuildDate><atom:link href="/landing-page/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年3月度開発活動報告</title><link>/landing-page/blog/2022-3/</link><pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate><guid>/landing-page/blog/2022-3/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
 これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
 本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
 Yamato Protocol 仕様変更 最小担保量を0.1ETHに設定 預け入れ後または引き出し後の担保量が0.1ETH以上であることが要求されます。
@@ -32,7 +32,7 @@ NFT画像を制作していただけるイラストレーター・デザイナ�
 関連リンク コミュニティガイド: https://docs.defigeek.xyz/
 Discord: http://discord.gg/FQYXqVBEnh
 Twitter: https://twitter.com/DeFiGeekJapan
-本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテスト→ベータテスト移行のお知らせ</title><link>/blog/yamato-protocol-9/</link><pubDate>Thu, 09 Dec 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-9/</guid><description>※⚠️記事の内容は投稿時点のものです。
+本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテスト→ベータテスト移行のお知らせ</title><link>/landing-page/blog/yamato-protocol-9/</link><pubDate>Thu, 09 Dec 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-9/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 2021年12月20日(月)12時～
 RinkebyTestnetにてYamato Protocol ベータテストが開始されます。
@@ -56,7 +56,7 @@ Issues · DeFiGeek-Community/yamato-interface
 2022.04～ メインネットベータ（Yamato v1） リリース
 2022.08～ Yamato v1.5 リリース（YMT遡及割当とveYMTの稼働）
 2023.Q1～ Yamato v2 リリース（CUSD,CEURの実装）
-※2022年3月時点で上記予定より四半期程度の遅れが生じています。</description></item><item><title>DFGC Fuseプール開設</title><link>/blog/dfgc-fuse-pool/</link><pubDate>Thu, 04 Nov 2021 15:00:00 +0000</pubDate><guid>/blog/dfgc-fuse-pool/</guid><description>DeFiGeek Community (DFGC) は、FuseプラットフォームにてTXJPを用いたプライベートレンディングプールを開設します。
+※2022年3月時点で上記予定より四半期程度の遅れが生じています。</description></item><item><title>DFGC Fuseプール開設</title><link>/landing-page/blog/dfgc-fuse-pool/</link><pubDate>Thu, 04 Nov 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/dfgc-fuse-pool/</guid><description>DeFiGeek Community (DFGC) は、FuseプラットフォームにてTXJPを用いたプライベートレンディングプールを開設します。
 DFGC Fuseプール Fuseとは、Rari Capitalが提供するプロトコルで、誰でもパーミッションレスに独自のレンディングプールを作れるサービスを提供しています。DFGCは、Fuseプラットフォーム上に私設レンディングプールを開設します。
 DFGC Fuseプールの特徴として、DFGCのガバナンストークンであるTXJPを貸し出し担保として採用し、他のETH、ステーブルコイン等の借り入れを可能とします。これにより、TXJP保有者におけるTXJPのユーティリティ向上を促進します。ETH、ステーブルコインを担保提供する流動性提供者は、貸し出し金利を獲得することができます。
 TXJPディストリビューション DFGC Fuseプールの大きな特徴がTXJPディストリビューションです。DFGC Fuseプールに流動性を提供することにより、一定の基準に基づいてTXJPが配布される予定です。受け取るTXJPの数については、アセット種別ごとのTXJP配布数量と流動性全体ボリュームによって変化します。詳細については、下記リンクより当コミュニティのコミュニティガイドをご確認ください。
@@ -65,7 +65,7 @@ TXJPディストリビューション DFGC Fuseプールの大きな特徴がTXJ
 関連リンク コミュニティガイド: https://docs.defigeek.xyz/dfgc-fuse-pool
 Discord: http://discord.gg/FQYXqVBEnh
 Twitter: https://twitter.com/DeFiGeekJapan
-本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテストのお知らせ</title><link>/blog/yamato-protocol-8/</link><pubDate>Wed, 03 Nov 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-8/</guid><description>※⚠️記事の内容は投稿時点のものです。
+本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテストのお知らせ</title><link>/landing-page/blog/yamato-protocol-8/</link><pubDate>Wed, 03 Nov 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-8/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 2021年11月4日12時～
 RinkebyTestnetにてYamato Protocol 公開テストが開始されます。
@@ -80,7 +80,7 @@ UIデザイン（フロント設計）、基本動作（担保入、借入、返
 適宜改修を行いながら本番仕様のベータテストに移ります。
 アルファテストは最小限の稼働仕様のため、コミュニティメンバー向けのテストです。
 不具合や動作不良、表示不良などコミュニティチャット (仮設：yamatoバグバウンティ会場)にて報告をお願い致します。
-テストとコード改修を進め、続報をお届けします。</description></item><item><title>Yamato Protocol - Yamato DAO Token（YMT）アロケーション</title><link>/blog/yamato-protocol-3/</link><pubDate>Fri, 03 Sep 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-3/</guid><description>※⚠️記事の内容は投稿時点のものです。
+テストとコード改修を進め、続報をお届けします。</description></item><item><title>Yamato Protocol - Yamato DAO Token（YMT）アロケーション</title><link>/landing-page/blog/yamato-protocol-3/</link><pubDate>Fri, 03 Sep 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-3/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 本記事ではYMTの全体分布を説明いたします。
 YMTの全体分布 総発行数 10億YMT（1B YMT） 5% 5000万YMT コミュニティトレジャリー Yamato Protocolに関わる全員が、その発展のために活用することができる準備資金です。

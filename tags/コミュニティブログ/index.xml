@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>コミュニティブログ on DeFiGeek Community</title><link>/tags/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%96%E3%83%AD%E3%82%B0/</link><description>Recent content in コミュニティブログ on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Thu, 28 Oct 2021 15:00:00 +0000</lastBuildDate><atom:link href="/tags/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>Yamato Protocol - FAQ：トークンアロケーション</title><link>/blog/yamato-protocol-7/</link><pubDate>Thu, 28 Oct 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-7/</guid><description>※⚠️記事の内容は投稿時点のものです。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>コミュニティブログ on DeFiGeek Community</title><link>/landing-page/tags/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%96%E3%83%AD%E3%82%B0/</link><description>Recent content in コミュニティブログ on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Thu, 28 Oct 2021 15:00:00 +0000</lastBuildDate><atom:link href="/landing-page/tags/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>Yamato Protocol - FAQ：トークンアロケーション</title><link>/landing-page/blog/yamato-protocol-7/</link><pubDate>Thu, 28 Oct 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-7/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 FAQの5.トークンアロケーションについて回答します。
 トークンアロケーション Q30 初期貢献者（TXJPホルダー）割当は身内贔屓ではありませんか？生態系が閉鎖的になりませんか？ A その懸念は理解できます。
@@ -28,7 +28,7 @@ Q36 TXJPの購入を考えているのですがYMTトークンのエアドロッ
 しかし、事前にスナップショットの日時は発表されません。これは投機的な動きを生まないためです。ですので厳密には、間に合うかどうかはわからないです。
 （コミュニティチャットにていつでも状況説明や質疑応答を行っています。）
 早い段階から保持し続けることが対象となる確実性を高めます。
-さらに、YMT以外にも今後も各種Dappのリリースから同様の割当が発生します。長期目線での保有が有効であると言えます。</description></item><item><title>Yamato Protocol - FAQ：他プロトコル比較・ケーススタディ</title><link>/blog/yamato-protocol-6/</link><pubDate>Fri, 22 Oct 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-6/</guid><description>※⚠️記事の内容は投稿時点のものです。
+さらに、YMT以外にも今後も各種Dappのリリースから同様の割当が発生します。長期目線での保有が有効であると言えます。</description></item><item><title>Yamato Protocol - FAQ：他プロトコル比較・ケーススタディ</title><link>/landing-page/blog/yamato-protocol-6/</link><pubDate>Fri, 22 Oct 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-6/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 FAQの3.他プロトコル比較と4.ケーススタディについて回答します。
 他プロトコル比較 Q15 既存で似たようなDappはありますか？ A イメージとしては、MakerとLiquity（とCurveによるガバナンストークンモデル）を足した感じです。
@@ -62,7 +62,7 @@ Yamatoはトークンガバナンスによって機能の複製と拡張の余�
 Makerと比べるとガバナンスの必要性はとても低くなっています。極論すると必要ない状態とも言えます。
 ですのでYMTは、Yamatoのユーティリティトークンとしてプロトコルを拡張する役割（償還担保分配によるインセンティブ構造）として、付加的にその自律性を高める役割を担います。
 ガバナンスの必要性とその役割が大きく異なるということです。
-ケーススタディ Q24 ユーザーが「償還」を実行するインセンティブはどこにありますか？ A これがYamato Protocolの肝でもあります。</description></item><item><title>Yamato Protocol - FAQ：総合・仕様／動作</title><link>/blog/yamato-protocol-5/</link><pubDate>Mon, 18 Oct 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-5/</guid><description>※⚠️記事の内容は投稿時点のものです。
+ケーススタディ Q24 ユーザーが「償還」を実行するインセンティブはどこにありますか？ A これがYamato Protocolの肝でもあります。</description></item><item><title>Yamato Protocol - FAQ：総合・仕様／動作</title><link>/landing-page/blog/yamato-protocol-5/</link><pubDate>Mon, 18 Oct 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-5/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 Yamatoをより理解していただくためにFAQ（よくある質問）をジャンルに分けて整理しましたので、順を追って公開していきます。
 総合 仕様／動作 他プロトコル比較 ケーススタディ YMTトークンアロケーション の５ジャンルです。
@@ -96,7 +96,7 @@ Q6 YamatoProtocolによって、何が変わりますか？私達にとって良
 ユーザーもしくはプロトコルによって償還されることにより、担保はその時点の時価でCJPYと引き換えられ債務を相殺します。（担保率の低い金庫が優先的に資産償還の対象になります。償還は担保が基準値以下の場合のみ可能です。）
 最終的に担保を全て償還しきったPledgeには”未払いの債務”が残りますが、担保が０になったPledgeはシステムによって残債務が免除されます。これはプロトコルが徴収した手数料の一部（20%に設定）を割り当てて動作します。
 Q8 「償還」とは？ A Yamato Protocolの健全性を保つために重要なシステムです。
-担保基準値を割り込んだPledgeの担保資産のみを対象とし、CJPYを1円の保証価格で担保資産と引き換えることができます。</description></item><item><title>Yamato Protocol - ステーブルトークン発行者のインセンティブ</title><link>/blog/yamato-protocol-4/</link><pubDate>Fri, 24 Sep 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-4/</guid><description>※⚠️記事の内容は投稿時点のものです。
+担保基準値を割り込んだPledgeの担保資産のみを対象とし、CJPYを1円の保証価格で担保資産と引き換えることができます。</description></item><item><title>Yamato Protocol - ステーブルトークン発行者のインセンティブ</title><link>/landing-page/blog/yamato-protocol-4/</link><pubDate>Fri, 24 Sep 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-4/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 コミュニティチャットのYamatoProtocol-AMAチャンネルにて質問がありました。
 原文のまま転載します。
@@ -134,7 +134,7 @@ Yamatoは、一回きりの発行手数料で金利は発生しません。
 とは言え、CJPY自体のユーティリティ獲得は至上命題です。
 レンディングプロトコル及びDEXでの安定的なマーケット形成を第一に、CeFi及びCEXでの活用へ進むことが理想です。
 まずは、DeFiでの優位性を得て流動性の向上を以て、CeFi市場への働きかけと理解促進が必要だと思います。
-CJPYは、BTCやETHと同様の暗号コモディティ（Proof of collateralで発行されるコモディティ）として、自然物の一つとなることができれば大成功だと考えています。</description></item><item><title>Yamato Protocol - YMTファーミングシステム</title><link>/blog/yamato-protocol-2/</link><pubDate>Fri, 13 Aug 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-2/</guid><description>※⚠️記事の内容は投稿時点のものです。
+CJPYは、BTCやETHと同様の暗号コモディティ（Proof of collateralで発行されるコモディティ）として、自然物の一つとなることができれば大成功だと考えています。</description></item><item><title>Yamato Protocol - YMTファーミングシステム</title><link>/landing-page/blog/yamato-protocol-2/</link><pubDate>Fri, 13 Aug 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-2/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 概要 YMT（Yamato DAO Token）は、Yamato Protocolに付随するユーティリティトークンです。
 Yamatoを使ってCJPYを借りることで、全ての人に同じルールで分配されます。
@@ -162,7 +162,7 @@ A ≧ CJPY借入額 → +1.5倍
 合わせて最大6.25倍のブーストとなります。
 Yamato v1では担保率ブーストのみ実装、v1.5にてveYMTブーストが実装されYMTの分配が開始されます。
 veYMTの用途 Yamato v2ではCUSDやCEUR等、CJPY以外のステーブルトークンが生成可能になります。
-それぞれのPledgeは別々に用意され、生成トークン種毎にYMTのファーミング割当の比重を決めるためのveYMT投票が実装されます。</description></item><item><title>Yamato Protocol - DeFi経験者向けの特徴解説</title><link>/blog/yamato-protocol-1/</link><pubDate>Fri, 30 Jul 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-1/</guid><description>※⚠️記事の内容は投稿時点のものです。
+それぞれのPledgeは別々に用意され、生成トークン種毎にYMTのファーミング割当の比重を決めるためのveYMT投票が実装されます。</description></item><item><title>Yamato Protocol - DeFi経験者向けの特徴解説</title><link>/landing-page/blog/yamato-protocol-1/</link><pubDate>Fri, 30 Jul 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-1/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 概要 Yamato Protocolの特徴 清算無し プロトコルとユーザーによる担保償還システムにて担保率健全性を維持する 無利息 一回払いきりの手数料制（発行時担保率により変動） 低担保率 発行時最小担保率110％ ガバナンストークンステークによる収益分配インセンティブ システム内の自律的な担保率維持メカニズム CJPYのシステム内１円償還保証 プロトコルによる代位弁済 担保割れによる担保価値以上の負債を負わない ユーザーメリット CJPY借入によるレバレッジ効果、原資産の高活用効率 CJPY借入によるガバナンストークンの獲得 レンディング等による運用収益獲得 詳細 Yamato Protocolの特徴 清算無し Yamato Protocolには強制的な清算がありません。
 担保率が110％を下回ったPledge（←金庫の名称）は第三者（ユーザー及びYamatoCore）のCJPYによって担保が時価で購入され、CJPY債務が返済される可能性があります。（担保率の低いPledgeから優先して担保が買い取られます。）
@@ -185,7 +185,7 @@ Pledge管理者にペナルティはありません。時価で担保（ETH）�
 原資産活用効率を高めて、有利な資産運用が可能です。
 ガバナンストークンステークによる収益分配インセンティブ Yamato ProtocolにはYamato DAO Token（YMT）というガバナンストークンがあります。
 YMTをプロトコルにロックすることで、Yamato Protocolからの収益分配を受けることができます。
-システム内の自律的な担保率維持メカニズム 過剰担保型の貸借システムであるため、システム総合での担保率はその健全性の指標として重要です。</description></item><item><title>Yamato Protocol - 初心者向け基礎解説</title><link>/blog/yamato-protocol/</link><pubDate>Fri, 16 Jul 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol/</guid><description>※⚠️記事の内容は投稿時点のものです。
+システム内の自律的な担保率維持メカニズム 過剰担保型の貸借システムであるため、システム総合での担保率はその健全性の指標として重要です。</description></item><item><title>Yamato Protocol - 初心者向け基礎解説</title><link>/landing-page/blog/yamato-protocol/</link><pubDate>Fri, 16 Jul 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 はじめに DeFiGeek Community JAPANはいくつもの分散型金融アプリケーションの構築を進めています。
 その中核となる第一の分散型アプリケーションが「Yamato Protocol」です。

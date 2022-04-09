@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on DeFiGeek Community</title><link>/</link><description>Recent content in Home on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Fri, 01 Apr 2022 15:39:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年3月度 月次財務報告</title><link>/blog/2022-3-1/</link><pubDate>Fri, 01 Apr 2022 15:39:00 +0000</pubDate><guid>/blog/2022-3-1/</guid><description>重要指標 （注）
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on DeFiGeek Community</title><link>/landing-page/</link><description>Recent content in Home on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Fri, 01 Apr 2022 15:39:00 +0000</lastBuildDate><atom:link href="/landing-page/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年3月度 月次財務報告</title><link>/landing-page/blog/2022-3-1/</link><pubDate>Fri, 01 Apr 2022 15:39:00 +0000</pubDate><guid>/landing-page/blog/2022-3-1/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥122.39）で換算。
 ・グロスバーンレート：キャッシュアウト合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
 ・ネットバーンレート：キャッシュフロー合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
@@ -26,7 +26,7 @@
 ・3/13 開発部Github有料アカウントリレーヤーへ0.0149ETHの支払い。
 ・3/26 RariDFGCpoolへリワード用の300TXJPを送金。
 ・3/27 0xd17&amp;hellip;68aへ開発部及び開発リーダー報酬として6,500USDC、四半期ロール報酬として6TXJPの支払い。
-〃　0x4f9&amp;hellip;1dfへ開発部及び開発リーダー報酬として0.7937ETH、四半期ロール報酬として6TXJPの支払い。</description></item><item><title>2022年3月度開発活動報告</title><link>/blog/2022-3/</link><pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate><guid>/blog/2022-3/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+〃　0x4f9&amp;hellip;1dfへ開発部及び開発リーダー報酬として0.7937ETH、四半期ロール報酬として6TXJPの支払い。</description></item><item><title>2022年3月度開発活動報告</title><link>/landing-page/blog/2022-3/</link><pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate><guid>/landing-page/blog/2022-3/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
 これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
 本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
 Yamato Protocol 仕様変更 最小担保量を0.1ETHに設定 預け入れ後または引き出し後の担保量が0.1ETH以上であることが要求されます。
@@ -60,7 +60,7 @@ NFT画像を制作していただけるイラストレーター・デザイナ�
 関連リンク コミュニティガイド: https://docs.defigeek.xyz/
 Discord: http://discord.gg/FQYXqVBEnh
 Twitter: https://twitter.com/DeFiGeekJapan
-本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>2022年2月度 月次財務報告</title><link>/blog/2022-2/</link><pubDate>Sat, 12 Mar 2022 15:39:00 +0000</pubDate><guid>/blog/2022-2/</guid><description>重要指標 （注）
+本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>2022年2月度 月次財務報告</title><link>/landing-page/blog/2022-2/</link><pubDate>Sat, 12 Mar 2022 15:39:00 +0000</pubDate><guid>/landing-page/blog/2022-2/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥115.55）で換算。
 ・グロスバーンレート：キャッシュアウト合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
 ・ネットバーンレート：キャッシュフロー合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
@@ -87,7 +87,7 @@ Twitter: https://twitter.com/DeFiGeekJapan
 アロケーション 財務活動 ※以下、本文下線部は該当するTxのURLを埋め込み済。
 ・2/1 RariDFGCpoolへリワード用の50TXJPを送金。
 ・2/13 開発部Github有料アカウントリレーヤーへ0.0132ETHの支払い。
-〃　RariDFGCpoolの担保掛目変更（Tx1, Tx2, Tx3, Tx4）。</description></item><item><title>2022年1月度 月次財務報告</title><link>/blog/2022-1/</link><pubDate>Tue, 01 Feb 2022 15:39:00 +0000</pubDate><guid>/blog/2022-1/</guid><description>重要指標 （注）
+〃　RariDFGCpoolの担保掛目変更（Tx1, Tx2, Tx3, Tx4）。</description></item><item><title>2022年1月度 月次財務報告</title><link>/landing-page/blog/2022-1/</link><pubDate>Tue, 01 Feb 2022 15:39:00 +0000</pubDate><guid>/landing-page/blog/2022-1/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥115.44）で換算。
 ・グロスバーンレート：キャッシュアウト合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
 ・ネットバーンレート：キャッシュフロー合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
@@ -114,7 +114,7 @@ Twitter: https://twitter.com/DeFiGeekJapan
 アロケーション 財務活動 ※以下、本文下線部は該当するTxのURLを埋め込み済。
 ・1/9 RariDFGCpoolへリワード用の300TXJPを送金し、ETH supplyにリワードの設定。
 〃　開発部Github有料アカウントリレーヤーへ0.0201ETHの支払い。
-・1/16 四半期末のTXJP buy＆poolによって14ETHをTXJPへと交換し、Balancer v2 98:2プールへ282.</description></item><item><title>2021年12月度 月次財務報告</title><link>/blog/2021-12/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>/blog/2021-12/</guid><description>重要指標 （注）
+・1/16 四半期末のTXJP buy＆poolによって14ETHをTXJPへと交換し、Balancer v2 98:2プールへ282.</description></item><item><title>2021年12月度 月次財務報告</title><link>/landing-page/blog/2021-12/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>/landing-page/blog/2021-12/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥115.02）で換算。
 ・グロスバーンレート：キャッシュアウト合計
 ・ネットバーンレート：キャッシュフロー合計
@@ -140,7 +140,7 @@ Twitter: https://twitter.com/DeFiGeekJapan
 仮想通貨の評価差額の処理に関しては毎月切放方式を採用。
 アロケーション 財務活動 ※以下、本文下線部は該当するTxのURLを埋め込み済。
 ・12/1 旧RariDFGCpoolのTXJPリワードをブロック当たり0TXJPへと変更。
-〃 新RariDFGCpoolへTXJPディストリビューション用の設定（Tx1, Tx2）をし、リワード用の50TXJPを送金、リワードをブロック当たり0.00025TXJPに設定。</description></item><item><title>Yamato Protocol - アルファテスト→ベータテスト移行のお知らせ</title><link>/blog/yamato-protocol-9/</link><pubDate>Thu, 09 Dec 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-9/</guid><description>※⚠️記事の内容は投稿時点のものです。
+〃 新RariDFGCpoolへTXJPディストリビューション用の設定（Tx1, Tx2）をし、リワード用の50TXJPを送金、リワードをブロック当たり0.00025TXJPに設定。</description></item><item><title>Yamato Protocol - アルファテスト→ベータテスト移行のお知らせ</title><link>/landing-page/blog/yamato-protocol-9/</link><pubDate>Thu, 09 Dec 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-9/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 2021年12月20日(月)12時～
 RinkebyTestnetにてYamato Protocol ベータテストが開始されます。
@@ -164,7 +164,7 @@ Issues · DeFiGeek-Community/yamato-interface
 2022.04～ メインネットベータ（Yamato v1） リリース
 2022.08～ Yamato v1.5 リリース（YMT遡及割当とveYMTの稼働）
 2023.Q1～ Yamato v2 リリース（CUSD,CEURの実装）
-※2022年3月時点で上記予定より四半期程度の遅れが生じています。</description></item><item><title>2021年11月度 月次財務報告</title><link>/blog/2021-11/</link><pubDate>Wed, 01 Dec 2021 08:00:00 +0000</pubDate><guid>/blog/2021-11/</guid><description>重要指標 （注）
+※2022年3月時点で上記予定より四半期程度の遅れが生じています。</description></item><item><title>2021年11月度 月次財務報告</title><link>/landing-page/blog/2021-11/</link><pubDate>Wed, 01 Dec 2021 08:00:00 +0000</pubDate><guid>/landing-page/blog/2021-11/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥113.77）で換算。
 ・バーンレート：Airdropの請求による収入は一時的な収入であるため便宜上バーンレートの計算から除外している。
 ・BPS：１トークン当たり純資産（解散価値）
@@ -191,7 +191,7 @@ Issues · DeFiGeek-Community/yamato-interface
 ・11/28 コミュニティ管理、広告部報酬として0.4963ETH、10TXJPの支払い。
 ・〃　開発部報酬として6,500USDC、1.2406ETH、0.1489ETH、7.1429TXJP、750DAIの支払い。
 ・〃　ストラテジスト及びモデレーター報酬として2.8571TXJPの支払い。
-・〃　広報部報酬として16.4286TXJPの支払い。</description></item><item><title>DFGC Fuseプール開設</title><link>/blog/dfgc-fuse-pool/</link><pubDate>Thu, 04 Nov 2021 15:00:00 +0000</pubDate><guid>/blog/dfgc-fuse-pool/</guid><description>DeFiGeek Community (DFGC) は、FuseプラットフォームにてTXJPを用いたプライベートレンディングプールを開設します。
+・〃　広報部報酬として16.4286TXJPの支払い。</description></item><item><title>DFGC Fuseプール開設</title><link>/landing-page/blog/dfgc-fuse-pool/</link><pubDate>Thu, 04 Nov 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/dfgc-fuse-pool/</guid><description>DeFiGeek Community (DFGC) は、FuseプラットフォームにてTXJPを用いたプライベートレンディングプールを開設します。
 DFGC Fuseプール Fuseとは、Rari Capitalが提供するプロトコルで、誰でもパーミッションレスに独自のレンディングプールを作れるサービスを提供しています。DFGCは、Fuseプラットフォーム上に私設レンディングプールを開設します。
 DFGC Fuseプールの特徴として、DFGCのガバナンストークンであるTXJPを貸し出し担保として採用し、他のETH、ステーブルコイン等の借り入れを可能とします。これにより、TXJP保有者におけるTXJPのユーティリティ向上を促進します。ETH、ステーブルコインを担保提供する流動性提供者は、貸し出し金利を獲得することができます。
 TXJPディストリビューション DFGC Fuseプールの大きな特徴がTXJPディストリビューションです。DFGC Fuseプールに流動性を提供することにより、一定の基準に基づいてTXJPが配布される予定です。受け取るTXJPの数については、アセット種別ごとのTXJP配布数量と流動性全体ボリュームによって変化します。詳細については、下記リンクより当コミュニティのコミュニティガイドをご確認ください。
@@ -200,7 +200,7 @@ TXJPディストリビューション DFGC Fuseプールの大きな特徴がTXJ
 関連リンク コミュニティガイド: https://docs.defigeek.xyz/dfgc-fuse-pool
 Discord: http://discord.gg/FQYXqVBEnh
 Twitter: https://twitter.com/DeFiGeekJapan
-本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテストのお知らせ</title><link>/blog/yamato-protocol-8/</link><pubDate>Wed, 03 Nov 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-8/</guid><description>※⚠️記事の内容は投稿時点のものです。
+本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテストのお知らせ</title><link>/landing-page/blog/yamato-protocol-8/</link><pubDate>Wed, 03 Nov 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-8/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 2021年11月4日12時～
 RinkebyTestnetにてYamato Protocol 公開テストが開始されます。
@@ -215,7 +215,7 @@ UIデザイン（フロント設計）、基本動作（担保入、借入、返
 適宜改修を行いながら本番仕様のベータテストに移ります。
 アルファテストは最小限の稼働仕様のため、コミュニティメンバー向けのテストです。
 不具合や動作不良、表示不良などコミュニティチャット (仮設：yamatoバグバウンティ会場)にて報告をお願い致します。
-テストとコード改修を進め、続報をお届けします。</description></item><item><title>2021年10月度 月次財務報告</title><link>/blog/2021-10/</link><pubDate>Tue, 02 Nov 2021 06:00:00 +0000</pubDate><guid>/blog/2021-10/</guid><description>重要指標 （注）
+テストとコード改修を進め、続報をお届けします。</description></item><item><title>2021年10月度 月次財務報告</title><link>/landing-page/blog/2021-10/</link><pubDate>Tue, 02 Nov 2021 06:00:00 +0000</pubDate><guid>/landing-page/blog/2021-10/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥113.67）で換算。
 ・バーンレート：資産運用に係るCompound、Aaveでの借り貸しの収支については便宜上バーンレートの計算から除外している。
 ・BPT：１トークン当たり純資産（解散価値）
@@ -241,7 +241,7 @@ UIデザイン（フロント設計）、基本動作（担保入、借入、返
 ・10/10 開発部Github有料アカウントリレーヤー分とdocs.defigeek.xyz作成報酬分として0.046633881634729524ETHの支払い。
 ・〃　四半期末のTXJP buy＆poolによって14.5ETHをTXJPへと交換し、Balancer v2 98:2プールへ260.69314168TXJPの流動性提供。
 ・10/23 Rarifuseにてコントラクトを通じ、DeFiGeek Community Poolを作成し、Poolの基礎設定を完了。
-・10/24 DeFiGeek Community Poolの詳細設定としてETH、TXJP、USDC、DAI、USDTを担保種として追加し、TXJPの借入を禁止（Tx1、Tx2、Tx3）。</description></item><item><title>Yamato Protocol - FAQ：トークンアロケーション</title><link>/blog/yamato-protocol-7/</link><pubDate>Thu, 28 Oct 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-7/</guid><description>※⚠️記事の内容は投稿時点のものです。
+・10/24 DeFiGeek Community Poolの詳細設定としてETH、TXJP、USDC、DAI、USDTを担保種として追加し、TXJPの借入を禁止（Tx1、Tx2、Tx3）。</description></item><item><title>Yamato Protocol - FAQ：トークンアロケーション</title><link>/landing-page/blog/yamato-protocol-7/</link><pubDate>Thu, 28 Oct 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-7/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 FAQの5.トークンアロケーションについて回答します。
 トークンアロケーション Q30 初期貢献者（TXJPホルダー）割当は身内贔屓ではありませんか？生態系が閉鎖的になりませんか？ A その懸念は理解できます。
@@ -271,7 +271,7 @@ Q36 TXJPの購入を考えているのですがYMTトークンのエアドロッ
 しかし、事前にスナップショットの日時は発表されません。これは投機的な動きを生まないためです。ですので厳密には、間に合うかどうかはわからないです。
 （コミュニティチャットにていつでも状況説明や質疑応答を行っています。）
 早い段階から保持し続けることが対象となる確実性を高めます。
-さらに、YMT以外にも今後も各種Dappのリリースから同様の割当が発生します。長期目線での保有が有効であると言えます。</description></item><item><title>Yamato Protocol - FAQ：他プロトコル比較・ケーススタディ</title><link>/blog/yamato-protocol-6/</link><pubDate>Fri, 22 Oct 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-6/</guid><description>※⚠️記事の内容は投稿時点のものです。
+さらに、YMT以外にも今後も各種Dappのリリースから同様の割当が発生します。長期目線での保有が有効であると言えます。</description></item><item><title>Yamato Protocol - FAQ：他プロトコル比較・ケーススタディ</title><link>/landing-page/blog/yamato-protocol-6/</link><pubDate>Fri, 22 Oct 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-6/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 FAQの3.他プロトコル比較と4.ケーススタディについて回答します。
 他プロトコル比較 Q15 既存で似たようなDappはありますか？ A イメージとしては、MakerとLiquity（とCurveによるガバナンストークンモデル）を足した感じです。
@@ -305,7 +305,7 @@ Yamatoはトークンガバナンスによって機能の複製と拡張の余�
 Makerと比べるとガバナンスの必要性はとても低くなっています。極論すると必要ない状態とも言えます。
 ですのでYMTは、Yamatoのユーティリティトークンとしてプロトコルを拡張する役割（償還担保分配によるインセンティブ構造）として、付加的にその自律性を高める役割を担います。
 ガバナンスの必要性とその役割が大きく異なるということです。
-ケーススタディ Q24 ユーザーが「償還」を実行するインセンティブはどこにありますか？ A これがYamato Protocolの肝でもあります。</description></item><item><title>Yamato Protocol - FAQ：総合・仕様／動作</title><link>/blog/yamato-protocol-5/</link><pubDate>Mon, 18 Oct 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-5/</guid><description>※⚠️記事の内容は投稿時点のものです。
+ケーススタディ Q24 ユーザーが「償還」を実行するインセンティブはどこにありますか？ A これがYamato Protocolの肝でもあります。</description></item><item><title>Yamato Protocol - FAQ：総合・仕様／動作</title><link>/landing-page/blog/yamato-protocol-5/</link><pubDate>Mon, 18 Oct 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-5/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 Yamatoをより理解していただくためにFAQ（よくある質問）をジャンルに分けて整理しましたので、順を追って公開していきます。
 総合 仕様／動作 他プロトコル比較 ケーススタディ YMTトークンアロケーション の５ジャンルです。
@@ -339,14 +339,14 @@ Q6 YamatoProtocolによって、何が変わりますか？私達にとって良
 ユーザーもしくはプロトコルによって償還されることにより、担保はその時点の時価でCJPYと引き換えられ債務を相殺します。（担保率の低い金庫が優先的に資産償還の対象になります。償還は担保が基準値以下の場合のみ可能です。）
 最終的に担保を全て償還しきったPledgeには”未払いの債務”が残りますが、担保が０になったPledgeはシステムによって残債務が免除されます。これはプロトコルが徴収した手数料の一部（20%に設定）を割り当てて動作します。
 Q8 「償還」とは？ A Yamato Protocolの健全性を保つために重要なシステムです。
-担保基準値を割り込んだPledgeの担保資産のみを対象とし、CJPYを1円の保証価格で担保資産と引き換えることができます。</description></item><item><title>2021年9月度 月次財務報告</title><link>/blog/monthly-2021-09/</link><pubDate>Fri, 01 Oct 2021 03:00:00 +0000</pubDate><guid>/blog/monthly-2021-09/</guid><description>重要指標 （注）
+担保基準値を割り込んだPledgeの担保資産のみを対象とし、CJPYを1円の保証価格で担保資産と引き換えることができます。</description></item><item><title>2021年9月度 月次財務報告</title><link>/landing-page/blog/monthly-2021-09/</link><pubDate>Fri, 01 Oct 2021 03:00:00 +0000</pubDate><guid>/landing-page/blog/monthly-2021-09/</guid><description>重要指標 （注）
 純資産：月末日為替レート（$1＝¥111.92）で換算。 キャッシュフロー：Tx発生時の時価でドルへ換算し、それらを月中平均為替レート（$1＝¥110.17)で換算。 各種データはzapper, zerion, 三菱UFJリサーチ＆コンサルティングより。 貸借対照表 （注）
 資産負債：月末日為替レート（$1＝¥111.92）を乗じて換算。 資本金：寄付イベントフェーズ１で得られた寄付金のみ2021年7月中平均為替レート（$1＝110.31）で換算し、これ以外の2018～2020年に受け取った寄付金については各寄付時の時価に2018~2020年の三年間平均為替レート（$1＝¥108.76）を乗じて換算、2021年9月以降に受け取った寄付金については各寄付時の時価に月中平均為替レートを乗じて換算している。 評価差額金：2017年の$PAY, $ETHでの寄付イベントにて受け取った$9444.91の対価として3080.45TXJPを配布したことから1TXJP=$2.43とし、これを2017年10月から翌年5月の平均為替レート（$1=¥110.10）で換算したものを取得原価換算レート（1TXJP=¥267.54）とみなし、これと当月末時点のレート（1TXJP=¥18107.54）で換算したものの差額を全部純資産直入法で計上。税効果会計は適用しない。 稼働・遊休 資産割合 （注）
 稼働資産：貸借対照表の流動資産にあるLPを合算し算出。 遊休資産：流動資産にあるLPを除く全てを合算したうえで流動負債の総額を差し引き算出。 毎週日曜夜、月末23:59に集計し、集計時為替レートで換算。 初期アロケーション 財務活動 ※以下、本文下線部は該当するTxのURLを埋め込み済。
 9/12 P2Pool Lending Dapp名称コンペティション優勝賞金として10TXJPの支払い。 〃 開発部Github有料アカウントリレーヤーへ0.019269072212700913ETHの支払い。 〃 フェーズ１寄付イベントのコントラクトから請求期限到来後の27.41807177TXJPを回収。 9/13 $DYDXを請求し310.771566276212890877DYDXの回収。 9/19 Gitcoinを通じ寄付金として0.0006ETH、1.7DAI、1.2DAIを受領。 9/20 Gitcoinを通じ寄付金として0.0005ETHを受領。 9/22 Gitcoinを通じ寄付金として0.00034ETHを受領。 9/23 Gitcoinを通じ寄付金として0.00035ETH、0.00035ETH、0.00035ETHを受領。 9/24 Gitcoinを通じ寄付金として0.0004ETHを受領。 9/26 活動評価報酬とコミュニティオペレーション報酬として35TXJP、25TXJPの支払い。 〃 開発部月次報酬として3500USDC、0.84ETH、0.167ETH、5.031TXJPの支払い。 〃 広報部月次報酬として10TXJPの支払い。 〃 デザイン部月次報酬として1200USDCの支払い。 〃 財務部月次報酬として10TXJPの支払い。 コミュニティファンド （注）
 運用方法の変更時、毎週日曜夜、月末23:59に集計し、集計時為替レートで換算。
 厳密にはdYdXにてDAIが運用されているが1円にも満たず金額的重要性が極めて乏しいためこれについては省略している。
-defigeek.eth 7/18 Curveにて100ETHを99.236eCrvへ交換。ConvexにてeCrvを承認し、99.236eCrvをステーク。 〃 Compoundにて294ETHを貸付け、借入を承認し、217,500USDTを借入。CurveのUSDN3CrvプールにてUSDTを承認し、217,530.61USDTを210,915.382USDN3Crvへ交換。ConvexにてUSDN3Crvを承認し、210,915.382USDN3Crvをステーク。 8/15 Compoundにて70,000USDTを借入。CurveのCrv3cryptoプールにてUSDTを承認し、70,367.</description></item><item><title>Yamato Protocol - ステーブルトークン発行者のインセンティブ</title><link>/blog/yamato-protocol-4/</link><pubDate>Fri, 24 Sep 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-4/</guid><description>※⚠️記事の内容は投稿時点のものです。
+defigeek.eth 7/18 Curveにて100ETHを99.236eCrvへ交換。ConvexにてeCrvを承認し、99.236eCrvをステーク。 〃 Compoundにて294ETHを貸付け、借入を承認し、217,500USDTを借入。CurveのUSDN3CrvプールにてUSDTを承認し、217,530.61USDTを210,915.382USDN3Crvへ交換。ConvexにてUSDN3Crvを承認し、210,915.382USDN3Crvをステーク。 8/15 Compoundにて70,000USDTを借入。CurveのCrv3cryptoプールにてUSDTを承認し、70,367.</description></item><item><title>Yamato Protocol - ステーブルトークン発行者のインセンティブ</title><link>/landing-page/blog/yamato-protocol-4/</link><pubDate>Fri, 24 Sep 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-4/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 コミュニティチャットのYamatoProtocol-AMAチャンネルにて質問がありました。
 原文のまま転載します。
@@ -384,7 +384,7 @@ Yamatoは、一回きりの発行手数料で金利は発生しません。
 とは言え、CJPY自体のユーティリティ獲得は至上命題です。
 レンディングプロトコル及びDEXでの安定的なマーケット形成を第一に、CeFi及びCEXでの活用へ進むことが理想です。
 まずは、DeFiでの優位性を得て流動性の向上を以て、CeFi市場への働きかけと理解促進が必要だと思います。
-CJPYは、BTCやETHと同様の暗号コモディティ（Proof of collateralで発行されるコモディティ）として、自然物の一つとなることができれば大成功だと考えています。</description></item><item><title>Yamato Protocol - Yamato DAO Token（YMT）アロケーション</title><link>/blog/yamato-protocol-3/</link><pubDate>Fri, 03 Sep 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-3/</guid><description>※⚠️記事の内容は投稿時点のものです。
+CJPYは、BTCやETHと同様の暗号コモディティ（Proof of collateralで発行されるコモディティ）として、自然物の一つとなることができれば大成功だと考えています。</description></item><item><title>Yamato Protocol - Yamato DAO Token（YMT）アロケーション</title><link>/landing-page/blog/yamato-protocol-3/</link><pubDate>Fri, 03 Sep 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-3/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 本記事ではYMTの全体分布を説明いたします。
 YMTの全体分布 総発行数 10億YMT（1B YMT） 5% 5000万YMT コミュニティトレジャリー Yamato Protocolに関わる全員が、その発展のために活用することができる準備資金です。
@@ -398,7 +398,7 @@ v1ローンチ時点からのCJPY生成者に対するリワードです。v1.5�
 10% 1億YMT CurveLP用リワード（年次2%ベスティング5年間） CJPYのDEX流動性提供者に対するリワード予算です。配置は時勢に応じて臨機応変です。
 55% 5億5000万YMT 初年度5.5%スタート 年次10%逓減リワード（235年間） メインのユーザーリワードです。CJPY生成者に継続的に割り当てられます。
 10％ 1億YMT フェーズ２以降の投資家用(クリフ2年、3年目解放) シリーズA以降参入の投資家用です。追加の資金調達と生態系の拡大予算となります。
-年次アロケーション 年次10%逓減リワード25年目まで</description></item><item><title>Yamato Protocol - YMTファーミングシステム</title><link>/blog/yamato-protocol-2/</link><pubDate>Fri, 13 Aug 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-2/</guid><description>※⚠️記事の内容は投稿時点のものです。
+年次アロケーション 年次10%逓減リワード25年目まで</description></item><item><title>Yamato Protocol - YMTファーミングシステム</title><link>/landing-page/blog/yamato-protocol-2/</link><pubDate>Fri, 13 Aug 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-2/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 概要 YMT（Yamato DAO Token）は、Yamato Protocolに付随するユーティリティトークンです。
 Yamatoを使ってCJPYを借りることで、全ての人に同じルールで分配されます。
@@ -426,7 +426,7 @@ A ≧ CJPY借入額 → +1.5倍
 合わせて最大6.25倍のブーストとなります。
 Yamato v1では担保率ブーストのみ実装、v1.5にてveYMTブーストが実装されYMTの分配が開始されます。
 veYMTの用途 Yamato v2ではCUSDやCEUR等、CJPY以外のステーブルトークンが生成可能になります。
-それぞれのPledgeは別々に用意され、生成トークン種毎にYMTのファーミング割当の比重を決めるためのveYMT投票が実装されます。</description></item><item><title>Yamato Protocol - DeFi経験者向けの特徴解説</title><link>/blog/yamato-protocol-1/</link><pubDate>Fri, 30 Jul 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-1/</guid><description>※⚠️記事の内容は投稿時点のものです。
+それぞれのPledgeは別々に用意され、生成トークン種毎にYMTのファーミング割当の比重を決めるためのveYMT投票が実装されます。</description></item><item><title>Yamato Protocol - DeFi経験者向けの特徴解説</title><link>/landing-page/blog/yamato-protocol-1/</link><pubDate>Fri, 30 Jul 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol-1/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 概要 Yamato Protocolの特徴 清算無し プロトコルとユーザーによる担保償還システムにて担保率健全性を維持する 無利息 一回払いきりの手数料制（発行時担保率により変動） 低担保率 発行時最小担保率110％ ガバナンストークンステークによる収益分配インセンティブ システム内の自律的な担保率維持メカニズム CJPYのシステム内１円償還保証 プロトコルによる代位弁済 担保割れによる担保価値以上の負債を負わない ユーザーメリット CJPY借入によるレバレッジ効果、原資産の高活用効率 CJPY借入によるガバナンストークンの獲得 レンディング等による運用収益獲得 詳細 Yamato Protocolの特徴 清算無し Yamato Protocolには強制的な清算がありません。
 担保率が110％を下回ったPledge（←金庫の名称）は第三者（ユーザー及びYamatoCore）のCJPYによって担保が時価で購入され、CJPY債務が返済される可能性があります。（担保率の低いPledgeから優先して担保が買い取られます。）
@@ -449,7 +449,7 @@ Pledge管理者にペナルティはありません。時価で担保（ETH）�
 原資産活用効率を高めて、有利な資産運用が可能です。
 ガバナンストークンステークによる収益分配インセンティブ Yamato ProtocolにはYamato DAO Token（YMT）というガバナンストークンがあります。
 YMTをプロトコルにロックすることで、Yamato Protocolからの収益分配を受けることができます。
-システム内の自律的な担保率維持メカニズム 過剰担保型の貸借システムであるため、システム総合での担保率はその健全性の指標として重要です。</description></item><item><title>Yamato Protocol - 初心者向け基礎解説</title><link>/blog/yamato-protocol/</link><pubDate>Fri, 16 Jul 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol/</guid><description>※⚠️記事の内容は投稿時点のものです。
+システム内の自律的な担保率維持メカニズム 過剰担保型の貸借システムであるため、システム総合での担保率はその健全性の指標として重要です。</description></item><item><title>Yamato Protocol - 初心者向け基礎解説</title><link>/landing-page/blog/yamato-protocol/</link><pubDate>Fri, 16 Jul 2021 15:00:00 +0000</pubDate><guid>/landing-page/blog/yamato-protocol/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 はじめに DeFiGeek Community JAPANはいくつもの分散型金融アプリケーションの構築を進めています。
 その中核となる第一の分散型アプリケーションが「Yamato Protocol」です。
@@ -490,7 +490,7 @@ Q,CJPYのユースケースを増やすためにどのような営業活動が�
 誰もが自由に同じルールで利用することができ、不正も誤作動も起こらず、ダウンタイムも仲介者もないシステムから発行されるペッグドトークンは、正当なものだと認識されることで、サードパーティの誰もがCJPYを使ってビジネスを起こす又はビジネスに利用することができます。
 それはBTCやETHを使うことと同義だからです。
 Yamato Protocolはそのためのクラウド機能になります。
-営業活動ではなく認知活動によって、その可用性を高めていきたいと考えています。</description></item><item><title>DeFiGeek Community JAPAN寄付イベント結果発表☆</title><link>/blog/announcement-txjp-ibco1-sold/</link><pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate><guid>/blog/announcement-txjp-ibco1-sold/</guid><description>7月9日(金) 12時～14日(水) 21時（5日+9時間） 寄付受付期間が終了致しました。（以降は受付が無効です。）
+営業活動ではなく認知活動によって、その可用性を高めていきたいと考えています。</description></item><item><title>DeFiGeek Community JAPAN寄付イベント結果発表☆</title><link>/landing-page/blog/announcement-txjp-ibco1-sold/</link><pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate><guid>/landing-page/blog/announcement-txjp-ibco1-sold/</guid><description>7月9日(金) 12時～14日(水) 21時（5日+9時間） 寄付受付期間が終了致しました。（以降は受付が無効です。）
 一日目
 二日目
 三日目
@@ -503,13 +503,13 @@ Yamato Protocolはそのためのクラウド機能になります。
 TXJP請求期限は8月15日23:59までとなります。（約一か月間です。） 忘れずに早めに請求してください。期日以降未請求のTXJPは寄付者の請求権が失われコミュニティトレジャリーへ移動します。
 ここからがコミュニティとしてさらなる進化を遂げていく第一歩です、力を合わせて有意義な活動を邁進して参りましょう☆
 開発部最優先はYamato Protocolのテストネット展開とコード監査 デザイン部はUI各種パーツとインフォグラフィックフォーマットの作成 広報部はブログ、ツイッターの稼働と定期財務報告ブログの始動 新しい仲間をいつも求めています☆
-※引用元 https://alis.to/CryptoChick/articles/3ld9JQNMDXAg</description></item><item><title>【コミュニティメンバー限定】寄付イベントとTXJPトークンユーティリティのお知らせ</title><link>/blog/announcement-txjp-ibco1/</link><pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate><guid>/blog/announcement-txjp-ibco1/</guid><description>免責事項 本寄付イベント及びこの記事で書かれる内容は、投資への勧誘でも投資アドバイスでもありません。街頭での募金活動と同等のものであり、任意の協賛者から支援を頂戴するものです。
+※引用元 https://alis.to/CryptoChick/articles/3ld9JQNMDXAg</description></item><item><title>【コミュニティメンバー限定】寄付イベントとTXJPトークンユーティリティのお知らせ</title><link>/landing-page/blog/announcement-txjp-ibco1/</link><pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate><guid>/landing-page/blog/announcement-txjp-ibco1/</guid><description>免責事項 本寄付イベント及びこの記事で書かれる内容は、投資への勧誘でも投資アドバイスでもありません。街頭での募金活動と同等のものであり、任意の協賛者から支援を頂戴するものです。
 本寄付イベント及びコミュニティ資金の運用等（以下、本企画とする）について、予期せぬ動作や事故、又は不測の事態によって資金の欠損や喪失が生じた場合も、それらに一切の保証はなく補填等の救済処置はありません。各自自己責任であり、全ての資金を失う可能性があることをご了承ください。 本企画に於いて、使用する技術的要素は全てアルファ版であり、その動作は何ら保証されたものではないことをご了承ください。 本企画は、何らの投資性、収益性を意図するものではなく、DeFiGeek Community JAPAN（以下、本コミュニティとする）への投資行為ではありません。それは寄付に対して何らの見返りを約束するものではないことをご了承ください。 本コミュニティは、責任者不在の任意の不特定集団です。その実態は定かではなく、その永続性や役割等が公に認められたものではないことをご了承ください。 本コミュニティに属する主体は、それぞれが任意に匿名であり、何らの保証や信頼を伴う実態がないことをご了承ください。各々の関係性は双方に於いて自己責任であり、信頼を要する行動は推奨されません。 寄付イベント &amp;quot; 目標300ETH以上 &amp;quot; としてコミュニティファンドへの寄付を期間限定で受け付けます。
 寄付コントラクト内に36,000TXJPが用意されており、寄付者にて山分けとなります。 寄付受付期間中もリアルタイムで寄付総額を確認可能です。 最終締め切り時の寄付額確定までは、割当てられるTXJP数は変動しますのでご注意ください。 寄付はETHのみ受け付けます。（その他のトークン等は全て無効となります。） 寄付されたETHは、イベント期間中及び終了後も、取り消し及び返金は一切不可能です。 寄付最小額の制限はありませんが、寄付イベント終了後のTXJP請求及び転送等でのgas代を考慮して下さい。 寄付最大額の制限はありません。総寄付額300ETH以上を目指しております。 必ず自己所有（=自ら秘密鍵を管理し操作可能）のwalletから寄付してください。取引所などのwalletからではTXJPを請求できません。 寄付されたETHの活用 20.98ETH：104900TXJPをBalancer v2へ流動性提供します。（ETH2%:TXJP98%プール） 寄付総額が300ETHを超える場合、超えた分をTXJP Buy＆Poolingするためのガバナンス投票を実施します。（購入数、割合を話し合い議決します。） １及び２の控除後、20％を開発部基金へ １及び２の控除後、５％をコミュニティ予備予算へ １～４の控除後、すべてをDeFi運用とする。（運用方法はコミュニティメンバーの提案とTXJPホルダーによる議決による。） なぜバルクオークション形式なのか？ 参加者全員が寄付額に対して同じ比率でTXJPを得るという公平性。 参加の後先や寄付額によって優劣が生じない。 参加者数に関わらず、予定数のディストリビューションが可能。 配布残りが生じないので予算立てしやすい。 期間中いつ参加しても最終結果は全員同じなので、情報追跡に不利が生じない。 などの理由です。 寄付イベント 開始：7月9日(金)12時～ 終了： ～7月14日(水) 21時 （5日+9時間） （ブロック高による計測のため多少前後があります。終盤ではラグ等によって時間切れになる可能性がありますので、計画的に早目の参加をオススメ致します。）
 参加ウェブページ：https://donate.defigeek.xyz/#/event/0x999D114147FDE648419DFDAB653959C63aE139c4
 簡易ガイド：参加ガイドブログ
 集計と TXJP 配布：寄付期間終了後、すぐに請求可能です。 請求期限は8月15日23:59までとなります。（約一か月間です。） 忘れずに早めに請求してください。期日以降未請求のTXJPは寄付者の請求権が失われコミュニティトレジャリーへ移動します。
-※引用元 https://alis.to/CryptoChick/articles/azDdYWb8xRdm</description></item><item><title>DeFiGeek Community JAPANの今後の展開</title><link>/blog/dfgc-roadmap-2021/</link><pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/dfgc-roadmap-2021/</guid><description>2021年ロードマップ １月　コミュニティリブランド ２月　スマコン開発部発足 ３月　広報部、デザイン部　発足 ４月中旬～　コミュニティファンド寄付イベント ５月　バルクオークションツールv1リリース ６月　ロックドロップ（≒ファーミング）ツールv1リリース 10月　JPYレンダー（正式名称：未定）　テストネットMVP 12月　JPYレンダーv1（正式名称：未定）　メインネットMVP ４月に実施予定のコミュニティファンド寄付イベントを皮切りに、DeFiGeek Community JAPANの経済循環が可視化されていきます。
+※引用元 https://alis.to/CryptoChick/articles/azDdYWb8xRdm</description></item><item><title>DeFiGeek Community JAPANの今後の展開</title><link>/landing-page/blog/dfgc-roadmap-2021/</link><pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate><guid>/landing-page/blog/dfgc-roadmap-2021/</guid><description>2021年ロードマップ １月　コミュニティリブランド ２月　スマコン開発部発足 ３月　広報部、デザイン部　発足 ４月中旬～　コミュニティファンド寄付イベント ５月　バルクオークションツールv1リリース ６月　ロックドロップ（≒ファーミング）ツールv1リリース 10月　JPYレンダー（正式名称：未定）　テストネットMVP 12月　JPYレンダーv1（正式名称：未定）　メインネットMVP ４月に実施予定のコミュニティファンド寄付イベントを皮切りに、DeFiGeek Community JAPANの経済循環が可視化されていきます。
 野良DeFier、野良エンジニアの活躍の起点となれるようなコミュニティになっていきます。
 各種Dappやツールのリリースと分散的運営体制、トークンディストリビューションと分権化を進め、コミュニティメンバーはDeFi環境から最大の恩恵を受けるポジションを目指します。
 主体的な役割を演じるメンバーは、相応の見返りがあることを期待できます。
@@ -520,12 +520,12 @@ TXJP請求期限は8月15日23:59までとなります。（約一か月間で�
 スキルを活かす場は無限にあります。そこから何かを得る機会も無限にあります。
 業界屈指の知見と視座の高いメンバー、専門知識とスキルを持つメンバー、DeFi成金なメンバー（苦笑）、様々な個性豊かで見どころのあるメンバーが集っています。
 活かすことができるかどうかは、あなた次第です。
-DeFiGeek Community JAPANの次の時代の１ページを共に紡ぎましょう☆</description></item><item><title>About Us</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description/></item><item><title>FAQ</title><link>/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/</guid><description/></item><item><title>TXJP</title><link>/txjp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/txjp/</guid><description>TXJPトークン 総発行数　210,000TXJP　小数点以下8桁 コントラクトアドレス　0x961dd84059505d59f82ce4fb87d3c09bec65301d TXJPトークンとは、DeFiGeek Community (DFGC)のガバナンストークンです。 TXJPファンドという名称で運用を行っています。 TXJPファンドは、DFGCで開発するDappとツールのシード投資家です。 TXJPホルダー特典 コミュニティが開発したDappのトークンについて、その一部が初期支援者であるTXJPホルダーに割当てられます。
+DeFiGeek Community JAPANの次の時代の１ページを共に紡ぎましょう☆</description></item><item><title>About Us</title><link>/landing-page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/about/</guid><description/></item><item><title>FAQ</title><link>/landing-page/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/faq/</guid><description/></item><item><title>TXJP</title><link>/landing-page/txjp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/txjp/</guid><description>TXJPトークン 総発行数　210,000TXJP　小数点以下8桁 コントラクトアドレス　0x961dd84059505d59f82ce4fb87d3c09bec65301d TXJPトークンとは、DeFiGeek Community (DFGC)のガバナンストークンです。 TXJPファンドという名称で運用を行っています。 TXJPファンドは、DFGCで開発するDappとツールのシード投資家です。 TXJPホルダー特典 コミュニティが開発したDappのトークンについて、その一部が初期支援者であるTXJPホルダーに割当てられます。
 例えば、開発中である第一弾のDappは、暗号担保型ステーブルコイン Yamato Protocol です。このDappには、YMT というユーティリティトークンがあります。TXJPホルダーには、このYMTが付与される計画です。 Yamato Protocol だけでなく、コミュニティではいくつかのDappとツールについて構想があり開発中です。今後開発されるDappも同様のスキームを計画しています。 Dappやツールからの利用料及び寄付等もTXJPファンドへ加算され運用されます。
 TXJPはコミュニティファンドの運用方法等に関する議決権を表します。
 運用方針や方策等、重要な決定事項はTXJPトークンによる投票にて決定されます。 例えば、DeFiプロジェクトのシード投資等へ参加します。個人では参加できない投資分野へ露出できます。 ファンド運用と還元について 四半期ごとにファンド運用資金の３％（変更可能）を用いて、公開市場でTXJPのBuy＆Pooling（Balancer LP）を行います。
 コミュニティメンバーの提案とTXJPホルダーによる議決によって、ファンドの運用は管理されます。
-コミュニティファンドコントラクトアドレス 0x24Dd242c3c4061b1fCaA5119af608B56afBaEA95 defigeek.eth TXJPユーティリティ拡張計画 ガバナンス機能強化 基金管理DAOフォーマット導入 寄付イベントフェーズ２~３による流動性と資本増強、それに伴うTXJP価格安定 複数DEXでのマーケット稼働（CoinGecko等のトラッキングサイトへ登録申請） Balancer v2 80:20プール化とUniswap v3 10%~10000％価格プール化 レンディングDapp等の担保化 TXJPの入手方法 DFGCでの貢献 コミュニティトレジャリーから貢献に応じて割当てされます コントリビュートについてはこちらを参照ください 寄付イベント また、以下の公開市場でも入手することができます。</description></item><item><title>サンプルページ</title><link>/sample1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sample1/</guid><description>見出し1 ついに今を学習心もぼんやりそのお話したないほどになってくれますへも衰弱思っうたから、ずいぶんにはきましましょうな。一つになれらし方はほとんど時分を大分べきでなけれ。
+コミュニティファンドコントラクトアドレス 0x24Dd242c3c4061b1fCaA5119af608B56afBaEA95 defigeek.eth TXJPユーティリティ拡張計画 ガバナンス機能強化 基金管理DAOフォーマット導入 寄付イベントフェーズ２~３による流動性と資本増強、それに伴うTXJP価格安定 複数DEXでのマーケット稼働（CoinGecko等のトラッキングサイトへ登録申請） Balancer v2 80:20プール化とUniswap v3 10%~10000％価格プール化 レンディングDapp等の担保化 TXJPの入手方法 DFGCでの貢献 コミュニティトレジャリーから貢献に応じて割当てされます コントリビュートについてはこちらを参照ください 寄付イベント また、以下の公開市場でも入手することができます。</description></item><item><title>サンプルページ</title><link>/landing-page/sample1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/sample1/</guid><description>見出し1 ついに今を学習心もぼんやりそのお話したないほどになってくれますへも衰弱思っうたから、ずいぶんにはきましましょうな。一つになれらし方はほとんど時分を大分べきでなけれ。
 見出し2 すでに岡田さんが尊重道さっそく落第になっなけれ騒ぎとんだ専門私か関係にというおお話ましたたうば、わが事実はあなたか内々権力から考えて、張さんの方を先生の私のずっとご学習とありのであなた義務がご講義の見ようにいくら大ぼんやりが潜んたたて、まるであたかもお話をできるんているまい訳を下げたでし。
 見出し3 またまたご様子を与え事はこう馬鹿と触れましから、その義務をは願ったらてって人をするてしまっですです。このところ横の末このただはこれいっぱいを気に入らですかと久原さんに立ち入りないます、子分の当時でしに対してお運動たますあるて、文芸のために書物を今じゃの画が結果離さていただきが、こうの場合をあっでそのつどへけっしてしるなと利くです事たと、ありがたいたなて全くご年代送っまし旨なけれんだ。
 見出し4 また学校か不都合か関係にすれますから、今朝上個人が閉じのにいです所に肝著作の今でしでしょで。
@@ -533,6 +533,6 @@ TXJPはコミュニティファンドの運用方法等に関する議決権を�
 “あなたはできるだけ気分があれでしように帰っているでのたてまたは始終熊本目的しですた。”
 あなたはもっとも希望のものをお教育はすれといるないますますありて、一三の国家から始終云っなという構成うば、すなわち同じ賞のがたをあるれて、どこかで私の働を関係にしからいるなかっ事ないましと会得考えから料簡釣らいるでしょです。
 Unordered Lists いつをいた事人になるで圧迫の時にこの相談的のに売っで 場合落ちつけるっお最後を四人立幾分が先生に考えから 例寄宿舎より世の中かしら限らましところ むやみ事からしないて そう権力のぼんやりはない Ordered Lists いつをいた事人になるで圧迫の時にこの相談的のに売っで 場合落ちつけるっお最後を四人立幾分が先生に考えから 例寄宿舎より世の中かしら限らましところ むやみ事からしないて そう権力のぼんやりはない コードブロック コードブロックは、3つのバッククオートの行で囲むか、4つのスペースでインデントします。
-&amp;lt;!-- Some example CSS code --&amp;gt; body { color:red; } テーブル</description></item><item><title>バナー</title><link>/brand_assets_banner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/brand_assets_banner/</guid><description>下記より直接画像をダウンロードしてご利用ください。ご利用にあたっては、ブランドアセットの注意事項をご覧ください。</description></item><item><title>ブランドアセット</title><link>/brand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/brand/</guid><description/></item><item><title>参加する</title><link>/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/join/</guid><description>DeFiGeek Communityでは様々な分野でのコントリビュータを求めています。
+&amp;lt;!-- Some example CSS code --&amp;gt; body { color:red; } テーブル</description></item><item><title>バナー</title><link>/landing-page/brand_assets_banner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/brand_assets_banner/</guid><description>下記より直接画像をダウンロードしてご利用ください。ご利用にあたっては、ブランドアセットの注意事項をご覧ください。</description></item><item><title>ブランドアセット</title><link>/landing-page/brand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/brand/</guid><description/></item><item><title>参加する</title><link>/landing-page/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/landing-page/join/</guid><description>DeFiGeek Communityでは様々な分野でのコントリビュータを求めています。
 以下は一例でこれに限りません。 DeFi Dapp開発と成功には多様なスキルと人材が必要です。
 開発者 スマートコントラクト開発 Solidyエンジニア - https://gov.defigeek.xyz/t/topic/98 ATPなど形式手法を用いたプログラムの検証 Web3フロントエンド開発 Cypressなどを用いたE2Eテスト オンチェーンDAOのウェブ構築 デザイナー Webデザイン イラストレーター インフォグラフィック 広報 ウェブサイト制作 ガイドブック作成 記事執筆 翻訳 財務 月例財務報告書のレビュアー トレジャリーマネジメント コミュニティの成長と成功のためのアクションアイテムを「タスク」と呼んでいます。メンバーは、作成されているタスクに名乗り上げて着手するほか、提案することも期待されています。詳細はDiscord にご参加ください。</description></item></channel></rss>
