@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ニュースリリース on DeFiGeek Community</title><link>https://haruketh.github.io/landing-page/blog/</link><description>Recent content in ニュースリリース on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 30 Apr 2022 15:39:00 +0000</lastBuildDate><atom:link href="https://haruketh.github.io/landing-page/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年4月度 月次財務報告</title><link>https://haruketh.github.io/landing-page/blog/2022-4-1/</link><pubDate>Sat, 30 Apr 2022 15:39:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-4-1/</guid><description>重要指標 （注）
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ニュースリリース on DeFiGeek Community</title><link>https://haruketh.github.io/landing-page/blog/</link><description>Recent content in ニュースリリース on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Thu, 16 Jun 2022 15:00:00 +0000</lastBuildDate><atom:link href="https://haruketh.github.io/landing-page/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Yamato Protocol開発進捗</title><link>https://haruketh.github.io/landing-page/blog/yamato-protocol-10/</link><pubDate>Thu, 16 Jun 2022 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/yamato-protocol-10/</guid><description>https://dev-app.yamato.fi/#/
+Rinkebyベータテストで発見された不具合やバグも修正を完了し、一通りの動作確認ができました。
+次の段階は、
+外部チームによるコード監査とそこで発見されたバグコード修正です。
+Yamato Protocolのアイディアと着想は、Maker及びLiquityをベースに考案されました。
+クリプト過剰担保型ステーブルコインレンダーです。
+トークンエコノミクスはCurveのCRV生態系を参考に、veモデルを実装します。（これはv1.5で実装します。）
+全てのコードはオリジナルで、
+P2C（Peer to Contract）Lenderとして強制清算を不要にした画期的な設計です。
+ETHを担保に日本円等価コイン（Convertible JPY（ティッカー：CJPY））を借用できる分散型アプリケーションとして、web3の基本的なアプリケーションになります。
+v2ではCUSD,CEURを実装し、グローバルなステーブルコインレンダーとしてさらに発展します。
+コード監査とその修正は７月８月をピークに進行します。
+大きな問題が無ければ９月中にメインネットv1のローンチが可能です。
+2021年2月にアイディアが公開され、
+2021年7月のDeFiGeek Community寄付イベントから開発チームが本格的に立ち上がり、
+一年余りでここまでたどり着きました。
+DeFiGeek Communityは、今では5件以上の複数のDapp開発を進行する開発コミュニティになりました。
+Yamato Protocolはその第一弾であり、初のDeFiGeek Communityのプロダクトです。
+デビューまでsoon!!です。
+関連するブログに目を通していただき、Yamato Protocolを知ってください。
+https://defigeek.xyz/blog/yamato-protocol/
+https://defigeek.xyz/blog/yamato-protocol-1/
+https://defigeek.xyz/blog/yamato-protocol-2/
+https://defigeek.xyz/blog/yamato-protocol-3/
+https://defigeek.xyz/blog/yamato-protocol-4/
+https://defigeek.xyz/blog/yamato-protocol-5/
+https://defigeek.xyz/blog/yamato-protocol-6/
+https://defigeek.xyz/blog/yamato-protocol-7/
+https://defigeek.xyz/blog/yamato-protocol-8/
+https://defigeek.xyz/blog/yamato-protocol-9/
+監査進行及び、その他の進捗を随時こちらのブログで発進していきます。
+是非フォローをお願い致します。
+コミュニティチャットにも遊びに来てください。
+招待リンクです↓
+https://discord.gg/FQYXqVBEnh
+2022.06.17
+DeFiGeek Community　開発部一同</description></item><item><title>2022年5月度 月次財務報告</title><link>https://haruketh.github.io/landing-page/blog/2022-5-1/</link><pubDate>Sun, 05 Jun 2022 15:39:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-5-1/</guid><description>重要指標 （注）
+・純資産：月末日為替レート（$1＝¥128.21）で換算。
+・グロスバーンレート：キャッシュアウト合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
+・ネットバーンレート：キャッシュフロー合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
+・予測ランウェイ：総純資産/ネットバーンレートで算出。現在のキャッシュフローで純資産が何ヶ月持つかどうかを示す。
+・BPS：１トークン当たり純資産（解散価値）
+・PBR：トークン価格純資産倍率
+・キャッシュフロー：Tx発生時の時価でドルへ換算し、それらを月中平均為替レート（$1＝¥128.81)で換算。
+・各種データはzapper, zerion, DeBank, Etherscan, SnowTrace, 三菱UFJリサーチ＆コンサルティングより。
+貸借対照表 （注）
+・資産負債：月末日為替レート（$1＝¥128.21）で換算。
+・資本金：寄付イベントフェーズ１で得られた寄付金のみ2021年7月中平均為替レート（$1＝110.31）で換算し、これ以外の2018～2020年に受け取った寄付金については各寄付時の時価に2018~2020年の三年間平均為替レート（$1＝¥108.76）を乗じて換算、2021年9月以降に受け取った寄付金については各寄付時の時価に月中平均為替レートを乗じて換算している。
+・評価差額金：$TXJPについては2017年の$PAY, $ETHでの寄付イベントにて受け取った$9444.91の対価として3080.45TXJPを配布したことから1TXJP=$2.43とし、これを2017年10月から翌年5月の平均為替レート（$1=¥110.10）で換算したものを取得原価換算レート（1TXJP=¥267.54）とみなし、これと当月末時点のレート（1TXJP=¥14,262）で換算したものの差額を全部純資産直入法で計上。$ETHに関してはLP投入時の時価との差額を全部純資産直入法で計上。税効果会計は適用しない。
+（※１）Aztec zk.moneyに入金済の0.03181zkETHはETHに合算。
+（※２）金額的重要性の低い$DAI, $USDC, $MIMO,$MCHC,$BAL,$HEX, $ALCH, $HAKKA, $OMGを合算。
+（※３）金額的重要性の低い$PAINT, $ALCH, $MCHC, $HAKKA, $WETH, $OMG, $USDT, $RPL, $SAI, $HEX, $KNC, $AMB, $PNK, $LPT, $VIUを合算。
+稼働・遊休資産割合 （注）
+・稼働資産：貸借対照表の流動資産にあるLPを合算し算出。
+・遊休資産：流動資産にあるLPを除く全てを合算したうえで流動負債の総額を差し引き算出。
+毎週日曜夜、月末23:59に集計し、集計時為替レートで換算。
+損益計算書 （注）
+・金利費用、利息収益：現状現金化の予定がないため、ともに発生主義で認識し見越計上を行うが、月初に再振替仕訳を行わず、未収未払部分の月中変動額は仮想通貨評価損益に含めて計算。
+・為替差損益：当月末為替レート（$1＝¥128.21）から前月末為替レート（$1＝¥128.86）を差し引いた値に米ドル建当月末流動資産負債合計を乗じることで算出。
+仮想通貨の評価差額の処理に関しては毎月切放方式を採用。
+アロケーション 財務活動 ※以下、本文下線部は該当するTxのURLを埋め込み済。
+・5/8 開発部Github有料アカウントリレーヤーへ0.0146ETHの支払い。
+・5/12 defigeek.ethからdev.defigeek.ethへ6,658.3580DAIを送金。
+・5/27 defigeek.ethからdev.defigeek.ethへ20,000USDTを送金。
+・5/29 0xd17&amp;hellip;68aへ開発部及び開発リーダー報酬として6,500USDCの支払い。</description></item><item><title>2022年5月度開発活動報告</title><link>https://haruketh.github.io/landing-page/blog/2022-5/</link><pubDate>Tue, 31 May 2022 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-5/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
+本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
+Yamato Protocol Yamato Core 以下の修正をテストネットコントラクトに反映しました。
+ICR0%判定の丸め誤差の修正 償還・弁済用プールの数値誤差の修正 償還時の報酬量計算の修正 償還イベントでの償還量を正味の量に修正 償還・弁済の動作確認が完了し、従来の動作で蓄積した数値のずれも解消され、現在は担保・借入量・プールなどの数値一貫性が保たれた状態となっています。
+ここから挙動を確認し、数値一貫性のずれが発生しなければ監査・ローンチへと向かいます。
+Yamato Interface 以下の改善を施しました。
+Yamato償還ボタンの有効化 最大ガス消費量を見積もり量の3倍から1.5倍に変更 借入時の予測数値名の明瞭化 メタマスク用のトークン追加ボタン設置 微小数値の0丸め リファクタリング（1, 2） その他UIの改善を随時予定しています。
+Yamato Interface（GitHub） はOSSです。どなたでもIssueを立てることができますし、Issueの対応をすることができます。
+Yamato Interface をより良いものとするために、皆様のコミットをお待ちしております。
+今後の予定 メインネットローンチまでの予定は以下です。
+各種動作確認と数値一貫性の確認 コード監査の依頼とレビュー修正 メインネットv1ローンチ 上記と並行して担保率ブーストスコア、（veYMTブーストスコア）実装も進行させる予定です。
+Core開発スポットタスク募集 複雑なアップグレードの生産性を高めるために、hardhatのローカルネットワークにて現行バージョンのYamatoコントラクト群をデプロイするスクリプトを作成していただける方を募集しています。
+環境にサンプルpledgeを生成してアップグレード自動化スクリプトを流し込み、アップグレードが滞りなく進むことを手元で確かめるのが目的です。
+TypeScriptが使えること、EVMやRPCノードの挙動を理解していることが条件です。
+あわせてリファクタもしていただけるとありがたいです。
+期限は一ヶ月を想定しています（必達ではありません）。
+担当していただける方にはアップグレードのノウハウをマンツーマンでお教えいたします。
+興味を持たれた方はdapp開発部にてお声がけください。
+YADORI（LoyaltyNFT） コア開発 SIWE（Sign In With Ethereum）し、そのEOAが保有するNFT内のポイントの転送を行うWebアプリのプロトタイプが稼働しています。
+ログイン後にNFTを他EOAに転送することで他EOAでも２重ログインできるといった非アトミック性を抱えているため、オフチェーンでの対応を検討しています。
+PoCの次の段階としてNFT内のポイントとギフトを交換するカタログアプリの構築を想定しています。
+こちらはWeb2アプリの開発となりますので、Web2の技術をとっかかりにWeb3を学んでいきたい方にはよい題材になると思います。
+コミュニティDiscordのLoyaltyNFTプロジェクトにて参加をお待ちしております。
+NFTイメージ開発 DFGCから発行するNFTイメージの制作を進めています。
+2D画像ではなく3DCG動画の提供を予定しており、枠の形や質感、主題のバリエーションを策定中です。
+ある程度方向性が固まったら公開チャンネルでお披露目する予定ですので、楽しみにお待ちください。
+NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。
+現在2名の方に参画していただいており、デザイン部ロールも付与されました。
+興味を持っていただけましたらコミュニティDiscordのNFT部にて参加表明をお願いします。
+ネーミングコンペティション LoyaltyNFTをパッケージ化する際の名称を決めるコンペティションを開催しました。</description></item><item><title>2022年4月度 月次財務報告</title><link>https://haruketh.github.io/landing-page/blog/2022-4-1/</link><pubDate>Sat, 30 Apr 2022 15:39:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-4-1/</guid><description>重要指標 （注）
 ・純資産：月末日為替レート（$1＝¥128.86）で換算。
 ・グロスバーンレート：キャッシュアウト合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
 ・ネットバーンレート：キャッシュフロー合計（資産運用に係る収支については一時的な支出であるため除外して計算している）
