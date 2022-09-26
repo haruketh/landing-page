@@ -1,6 +1,149 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>オフィシャルアナウンス on DeFiGeek Community</title><link>https://haruketh.github.io/landing-page/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/</link><description>Recent content in オフィシャルアナウンス on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 20 Jun 2022 11:00:00 +0000</lastBuildDate><atom:link href="https://haruketh.github.io/landing-page/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>test2</title><link>https://haruketh.github.io/landing-page/blog/test2-1/</link><pubDate>Mon, 20 Jun 2022 11:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/test2-1/</guid><description>標準設定のまま、公開日付を6/20 20時にする。
-date = 2022-06-20T11:00:00Z</description></item><item><title>test</title><link>https://haruketh.github.io/landing-page/blog/test/</link><pubDate>Mon, 20 Jun 2022 10:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/test/</guid><description>標準設定のまま、公開日付を6/20 19時にする。
-date = 2022-06-20T10:00:00Z</description></item><item><title>2022年5月度開発活動報告</title><link>https://haruketh.github.io/landing-page/blog/2022-5/</link><pubDate>Tue, 31 May 2022 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-5/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>オフィシャルアナウンス on DeFiGeek Community</title><link>/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/</link><description>Recent content in オフィシャルアナウンス on DeFiGeek Community</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Wed, 31 Aug 2022 15:00:00 +0000</lastBuildDate><atom:link href="/tags/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年8月度開発活動報告</title><link>/blog/2022-8/</link><pubDate>Wed, 31 Aug 2022 15:00:00 +0000</pubDate><guid>/blog/2022-8/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
+本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
+Yamato Protocol Yamato Core V1の動作確認が完了したため、外部チームによる監査へと進みました。
+1社目の一次監査レポートが到着し、開発チームで対応方針を確定させ、ソースの修正作業を完了しました。
+レビュー提出済みで、再監査の後に最終レポートを発行してもらう予定です。
+最終レポートは正式に発行され次第共有いたします。
+2社目の依頼については、1社目の監査でYamato固有のCriticalなIssueが発見されなかったことから一時保留としました。
+バージョンアップやローンチ後TVL増加などのタイミングで再度選定予定です。
+監査の代替としてImmunefiへバウンティを設置します。
+監査レポートとソースコードを公開し、ローンチ前にバグ報告期間を設けます。
+ローンチまでの今後の流れは
+ソース・監査レポート公開 バウンティ設置ののち一定期間バグ報告待ち （2で報告があった場合修正） Goerliテストネットローンチ（コントラクト・UIデプロイのリハーサル） メインネットローンチ となります。ローンチまでより一層慎重に取り組みます。
+その他ロードマップなどについてはこちらをご確認ください。
+Yamato Interface 以下の改善を施しました。
+多言語対応 ダークモード実装（進行中） 現時点でV1に必要な機能はすべて実装済みで正常に動作することが確認されています。
+今後はV1.5、V2のための開発を進行する予定ですが、改善要望があれば検討いたします。
+Yamato Interface（GitHub） はOSSです。どなたでもIssueを立てることができますし、Issueの対応をすることができます。
+Yamato Interface をより良いものとするために、皆様のコミットをお待ちしております。
+Core開発スポットタスク募集 複雑なアップグレードの生産性を高めるために、hardhatのローカルネットワークにて現行バージョンのYamatoコントラクト群をデプロイするスクリプトを作成していただける方を募集しています。
+環境にサンプルpledgeを生成してアップグレード自動化スクリプトを流し込み、アップグレードが滞りなく進むことを手元で確かめるのが目的です。
+TypeScriptが使えること、EVMやRPCノードの挙動を理解していることが条件です。
+あわせてリファクタもしていただけるとありがたいです。
+期限は一ヶ月を想定しています（必達ではありません）。
+担当していただける方にはアップグレードのノウハウをマンツーマンでお教えいたします。
+興味を持たれた方はdapp開発部にてお声がけください。
+YADORI コア開発 SIWE（Sign In With Ethereum）し、そのEOAが保有するNFT内のポイントの転送を行うWebアプリのプロトタイプが稼働しています。
+ログイン後にNFTを他EOAに転送することで他EOAでも２重ログインできるといった非アトミック性を抱えているため、オフチェーンでの対応を検討しています。
+PoCの次の段階としてNFT内のポイントとギフトを交換するカタログアプリの構築を想定しています。
+こちらはWeb2アプリの開発となりますので、Web2の技術をとっかかりにWeb3を学んでいきたい方にはよい題材になると思います。
+コミュニティDiscordのLoyaltyNFTプロジェクトにて参加をお待ちしております。
+NFTイメージ開発 DFGCから発行するNFTイメージの制作を進めています。
+2D画像ではなく3DCG動画の提供を予定しており、枠の形や質感、主題のバリエーションを策定中です。
+ある程度方向性が固まったら公開チャンネルでお披露目する予定ですので、楽しみにお待ちください。
+NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。
+興味を持っていただけましたらコミュニティDiscordのNFT部にて参加表明をお願いします。
+ロゴコンペティション ネーミングコンペティションに続いてロゴコンペティションを開催します。
+デザイン部主導でロゴを完成させる方向で動く予定ですが、ラフやモチーフの提案・議論の参加は歓迎いたします。
+YADORIロゴマークコンペティションにてご意見お待ちしております。
+WalletアバターNFT WalletアバターNFTとは、EOAの状態（ETH保有数、トランザクション発行数など）によって図柄が変化する、EOAのアイデンティティを示すNFTです。</description></item><item><title>2022年7月度開発活動報告</title><link>/blog/2022-7-1/</link><pubDate>Sun, 31 Jul 2022 15:00:00 +0000</pubDate><guid>/blog/2022-7-1/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
+本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
+Yamato Protocol Yamato Core V1の動作確認が完了したため、外部チームによる監査へと進みました。
+1社目の一次監査レポートが到着し、開発チームで対応方針を確定させ、ソースの修正作業に入りました。
+8月中に修正したものを再レビューに提出し最終レポートを発行してもらう予定です。
+最終レポートは正式に発行され次第共有いたします。
+2社目の依頼については上記の監査結果を基に選定中です。
+依頼先の選定・バグバウンティの設置などの方針を8月中に確定する予定です。
+最終的な監査完了時期は9月～10月を想定しています。
+その他ロードマップなどについてはこちらをご確認ください。
+Yamato Interface 以下の改善を施しました。
+多言語対応（進行中） ダークモード実装（進行中） 現時点でV1に必要な機能はすべて実装済みで正常に動作することが確認されています。
+今後はV1.5、V2のための開発を進行する予定ですが、改善要望があれば検討いたします。
+Yamato Interface（GitHub） はOSSです。どなたでもIssueを立てることができますし、Issueの対応をすることができます。
+Yamato Interface をより良いものとするために、皆様のコミットをお待ちしております。
+Core開発スポットタスク募集 複雑なアップグレードの生産性を高めるために、hardhatのローカルネットワークにて現行バージョンのYamatoコントラクト群をデプロイするスクリプトを作成していただける方を募集しています。
+環境にサンプルpledgeを生成してアップグレード自動化スクリプトを流し込み、アップグレードが滞りなく進むことを手元で確かめるのが目的です。
+TypeScriptが使えること、EVMやRPCノードの挙動を理解していることが条件です。
+あわせてリファクタもしていただけるとありがたいです。
+期限は一ヶ月を想定しています（必達ではありません）。
+担当していただける方にはアップグレードのノウハウをマンツーマンでお教えいたします。
+興味を持たれた方はdapp開発部にてお声がけください。
+YADORI コア開発 SIWE（Sign In With Ethereum）し、そのEOAが保有するNFT内のポイントの転送を行うWebアプリのプロトタイプが稼働しています。
+ログイン後にNFTを他EOAに転送することで他EOAでも２重ログインできるといった非アトミック性を抱えているため、オフチェーンでの対応を検討しています。
+PoCの次の段階としてNFT内のポイントとギフトを交換するカタログアプリの構築を想定しています。
+こちらはWeb2アプリの開発となりますので、Web2の技術をとっかかりにWeb3を学んでいきたい方にはよい題材になると思います。
+コミュニティDiscordのLoyaltyNFTプロジェクトにて参加をお待ちしております。
+NFTイメージ開発 DFGCから発行するNFTイメージの制作を進めています。
+2D画像ではなく3DCG動画の提供を予定しており、枠の形や質感、主題のバリエーションを策定中です。
+ある程度方向性が固まったら公開チャンネルでお披露目する予定ですので、楽しみにお待ちください。
+NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。
+興味を持っていただけましたらコミュニティDiscordのNFT部にて参加表明をお願いします。
+ロゴコンペティション ネーミングコンペティションに続いてロゴコンペティションを開催します。
+デザイン部主導でロゴを完成させる方向で動く予定ですが、ラフやモチーフの提案・議論の参加は歓迎いたします。
+YADORIロゴマークコンペティションにてご意見お待ちしております。
+WalletアバターNFT WalletアバターNFTとは、EOAの状態（ETH保有数、トランザクション発行数など）によって図柄が変化する、EOAのアイデンティティを示すNFTです。
+コア開発 サービス仕様について検討し、WalletアバターNFTにおける譲渡（≒転送）不可という仕様を撤廃しました。
+「EOAとNFTの状態を参照して図柄が変化する」というテーマを考えたとき、保有者はNFTが転送されても一意に特定でき、転送不可で二次流通できなくなるというデメリットがあるため、上記制約は不要と判断しました。
+図柄変更ロジックについて、どのようなパラメータ・閾値を設定するかを検討しています。
+実現可能性やアイデンティティたりえるかといった点を総合的に判断しながら選定を行っています。
+こちらはWeb2（＋Web3データ取得）で開発が進行しますので、開発に興味を持たれた方はコミュニティDiscordのNFT部にて参加表明をお願いします。
+NFTイメージ開発 現在はデザイン部メンバー主導で開発を行っています。
+V1で提供するモデルは</description></item><item><title>Yamato Protocol V1 Overview</title><link>/blog/yamato-protocol-v1-overview/</link><pubDate>Tue, 19 Jul 2022 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-v1-overview/</guid><description>Summary Yamato Protocol is a crypto-asset overcollateralized stable coin issuance protocol.
+V1 allows the issuance of CJPY (Japanese Yen equivalent coin) using ETH as collateral.
+It has the following features
+No immediate forced liquidation No obligation to repay debt No interest rates (Fee collected at the time of borrowing) Low secured rates (minimum 130%) Functional Description Deposits and Withdrawals Deposits and withdrawals can increase or decrease the ETH balance in Pledge.</description></item><item><title>Yamato Protocol V1 概要</title><link>/blog/yamato-protocol-v1/</link><pubDate>Tue, 19 Jul 2022 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-v1/</guid><description>概要 Yamato Protocol は暗号資産過剰担保型ステーブルコイン発行プロトコルです。
+V1ではETHを担保としてCJPY（日本円と等価）を発行することができます。
+Yamato Protocol は以下の特徴があります
+強制清算なし 債務返済義務なし 金利なし（借入時手数料徴収制） 低担保率利用可能（最低130%） 機能説明 預け入れと引き出し 預け入れと引き出しではPledgeのETH残高を増減させることができます。
+PledgeとはYamato Protocol における口座のことで、アドレス毎の担保・債務を管理します。
+預け入れ 預け入れ後の担保量は0.1ETH以上であることが要求されます。
+精算によって担保量が0.1ETHを下回ることがあります。
+引き出し 引き出し後の担保量は0.1ETH以上であることが要求されます。
+ただし、借り入れがない場合の全額引き出しは可能です。
+引き出し後の担保率が130%を切るような担保量の引き出しはできません。
+借入と返済 借入と返済ではあなたのウォレットのCJPY残高を増減させることができます。
+借入 利用者は最低担保率130%でCJPYを発行することができます。
+手数料 手数料は借入時に一括で徴収されます。
+手数料率は借入後の担保率によって決まります。
+手数料は借入量から差し引かれます。
+つまり、手取り量 = 借入量 * (1 - 手数料率) となります。
+満額返済するためには外部からCJPYを調達する必要があります。
+手数料率は以下の通りです
+借入後担保率(%) 手数料率(%) 130 4 150 2 200 1 250 0.85 300 0.</description></item><item><title>2022年6月度開発活動報告</title><link>/blog/2022-6-1/</link><pubDate>Thu, 30 Jun 2022 15:00:00 +0000</pubDate><guid>/blog/2022-6-1/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
+本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
+Yamato Protocol Yamato Core V1の動作確認が完了したため、外部チームによる監査へと進みました。
+2社からの監査を予定していて、1社は監査を開始、1社は見積もり段階です。
+監査完了まで詳細は伏せますが、監査レポートは随時公開いたします。
+最終的な監査完了時期は9月～10月を想定しています。
+その他ロードマップなどについてはこちらをご確認ください。
+Yamato Interface 以下の改善を施しました。
+多言語対応（進行中） リファクタリング（1） 現時点でV1に必要な機能はすべて実装済みで正常に動作することが確認されています。
+今後はV1.5、V2のための開発を進行する予定ですが、改善要望があれば検討いたします。
+Yamato Interface（GitHub） はOSSです。どなたでもIssueを立てることができますし、Issueの対応をすることができます。
+Yamato Interface をより良いものとするために、皆様のコミットをお待ちしております。
+Core開発スポットタスク募集 複雑なアップグレードの生産性を高めるために、hardhatのローカルネットワークにて現行バージョンのYamatoコントラクト群をデプロイするスクリプトを作成していただける方を募集しています。
+環境にサンプルpledgeを生成してアップグレード自動化スクリプトを流し込み、アップグレードが滞りなく進むことを手元で確かめるのが目的です。
+TypeScriptが使えること、EVMやRPCノードの挙動を理解していることが条件です。
+あわせてリファクタもしていただけるとありがたいです。
+期限は一ヶ月を想定しています（必達ではありません）。
+担当していただける方にはアップグレードのノウハウをマンツーマンでお教えいたします。
+興味を持たれた方はdapp開発部にてお声がけください。
+YADORI コア開発 SIWE（Sign In With Ethereum）し、そのEOAが保有するNFT内のポイントの転送を行うWebアプリのプロトタイプが稼働しています。
+ログイン後にNFTを他EOAに転送することで他EOAでも２重ログインできるといった非アトミック性を抱えているため、オフチェーンでの対応を検討しています。
+PoCの次の段階としてNFT内のポイントとギフトを交換するカタログアプリの構築を想定しています。
+こちらはWeb2アプリの開発となりますので、Web2の技術をとっかかりにWeb3を学んでいきたい方にはよい題材になると思います。
+コミュニティDiscordのLoyaltyNFTプロジェクトにて参加をお待ちしております。
+NFTイメージ開発 DFGCから発行するNFTイメージの制作を進めています。
+2D画像ではなく3DCG動画の提供を予定しており、枠の形や質感、主題のバリエーションを策定中です。
+ある程度方向性が固まったら公開チャンネルでお披露目する予定ですので、楽しみにお待ちください。
+NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。
+興味を持っていただけましたらコミュニティDiscordのNFT部にて参加表明をお願いします。
+ロゴコンペティション ネーミングコンペティションに続いてロゴコンペティションを開催します。
+デザイン部主導でロゴを完成させる方向で動く予定ですが、ラフやモチーフの提案・議論の参加は歓迎いたします。
+YADORIロゴマークコンペティションにてご意見お待ちしております。
+WalletアバターNFT WalletアバターNFTとは、譲渡不可で、EOAの状態（ETH保有数、トランザクション発行数など）によって図柄が変化する、EOAのアイデンティティを示すNFTです。
+コア開発 「EOA状態によって表示する図柄を決める」というロジックについて、どのようなパラメータ・閾値を設定するかを検討しています。
+実現可能性やアイデンティティたりえるかといった点を総合的に判断しながら選定を行っています。
+こちらはWeb2（＋Web3データ取得）で開発が進行しますので、開発に興味を持たれた方はコミュニティDiscordのNFT部にて参加表明をお願いします。
+NFTイメージ開発 現在はデザイン部メンバー主導で開発を行っています。
+図柄においては複数のモデルを用意することによって表現の幅を広げる予定ですので、モデル・キャラクター等をWalletアバターNFTに組み込んでいただける・概要について詳しく知りたいデザイナーの方はコミュニティDiscordのNFT部にてご連絡ください。
+ネーミングコンペティション WalletアバターNFTをパッケージ化する際の名称を決めるコンペティションを開催しています。
+現在名称の公募を行っています。
+名称の投稿だけでなく、すでに投稿された名称に対する支持や解釈の提示など各種議論も歓迎いたします。
+こちらからご参加ください。</description></item><item><title>2022年5月度開発活動報告</title><link>/blog/2022-5/</link><pubDate>Tue, 31 May 2022 15:00:00 +0000</pubDate><guid>/blog/2022-5/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
 これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
 本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
 Yamato Protocol Yamato Core 以下の修正をテストネットコントラクトに反映しました。
@@ -30,7 +173,7 @@ NFTイメージ開発 DFGCから発行するNFTイメージの制作を進めて
 NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。
 現在2名の方に参画していただいており、デザイン部ロールも付与されました。
 興味を持っていただけましたらコミュニティDiscordのNFT部にて参加表明をお願いします。
-ネーミングコンペティション LoyaltyNFTをパッケージ化する際の名称を決めるコンペティションを開催しました。</description></item><item><title>2022年4月度開発活動報告</title><link>https://haruketh.github.io/landing-page/blog/2022-4/</link><pubDate>Sat, 30 Apr 2022 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-4/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+ネーミングコンペティション LoyaltyNFTをパッケージ化する際の名称を決めるコンペティションを開催しました。</description></item><item><title>2022年4月度開発活動報告</title><link>/blog/2022-4/</link><pubDate>Sat, 30 Apr 2022 15:00:00 +0000</pubDate><guid>/blog/2022-4/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
 これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
 本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
 Yamato Protocol Yamato Core 以下の修正をテストネットコントラクトに反映しました。
@@ -57,7 +200,7 @@ PoCの次の段階としてNFT内のポイントとギフトを交換するカ�
 NFTイメージ開発 DFGCから発行するNFTイメージの制作を進めています。
 2D画像ではなく3DCG動画の提供を予定しており、枠の形や質感、主題のバリエーションを策定中です。
 ある程度方向性が固まったら公開チャンネルでお披露目する予定ですので、楽しみにお待ちください。
-NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。</description></item><item><title>2022年3月度開発活動報告</title><link>https://haruketh.github.io/landing-page/blog/2022-3/</link><pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/2022-3/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
+NFT画像・モデルを制作していただけるイラストレーター・デザイナーを募集しています。</description></item><item><title>2022年3月度開発活動報告</title><link>/blog/2022-3/</link><pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate><guid>/blog/2022-3/</guid><description>はじめに DFGCでは複数のプロジェクトを進行させています。
 これらのアイデア・ソースの盗用を防ぐために開発をステルスで行っていますが、進捗が一般のメンバーに共有されづらいという問題があります。
 本活動報告の目的は、このようなクリプトプロジェクト特有の課題について透明性を高めることで、メンバーの参加・貢献に寄与することです。
 Yamato Protocol 仕様変更 最小担保量を0.1ETHに設定 預け入れ後または引き出し後の担保量が0.1ETH以上であることが要求されます。
@@ -91,7 +234,7 @@ NFT画像を制作していただけるイラストレーター・デザイナ�
 関連リンク コミュニティガイド: https://docs.defigeek.xyz/
 Discord: http://discord.gg/FQYXqVBEnh
 Twitter: https://twitter.com/DeFiGeekJapan
-本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテスト→ベータテスト移行のお知らせ</title><link>https://haruketh.github.io/landing-page/blog/yamato-protocol-9/</link><pubDate>Thu, 09 Dec 2021 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/yamato-protocol-9/</guid><description>※⚠️記事の内容は投稿時点のものです。
+本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテスト→ベータテスト移行のお知らせ</title><link>/blog/yamato-protocol-9/</link><pubDate>Thu, 09 Dec 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-9/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 2021年12月20日(月)12時～
 RinkebyTestnetにてYamato Protocol ベータテストが開始されます。
@@ -115,7 +258,7 @@ Issues · DeFiGeek-Community/yamato-interface
 2022.04～ メインネットベータ（Yamato v1） リリース
 2022.08～ Yamato v1.5 リリース（YMT遡及割当とveYMTの稼働）
 2023.Q1～ Yamato v2 リリース（CUSD,CEURの実装）
-※2022年3月時点で上記予定より四半期程度の遅れが生じています。</description></item><item><title>DFGC Fuseプール開設</title><link>https://haruketh.github.io/landing-page/blog/dfgc-fuse-pool/</link><pubDate>Thu, 04 Nov 2021 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/dfgc-fuse-pool/</guid><description>DeFiGeek Community (DFGC) は、FuseプラットフォームにてTXJPを用いたプライベートレンディングプールを開設します。
+※2022年3月時点で上記予定より四半期程度の遅れが生じています。</description></item><item><title>DFGC Fuseプール開設</title><link>/blog/dfgc-fuse-pool/</link><pubDate>Thu, 04 Nov 2021 15:00:00 +0000</pubDate><guid>/blog/dfgc-fuse-pool/</guid><description>DeFiGeek Community (DFGC) は、FuseプラットフォームにてTXJPを用いたプライベートレンディングプールを開設します。
 DFGC Fuseプール Fuseとは、Rari Capitalが提供するプロトコルで、誰でもパーミッションレスに独自のレンディングプールを作れるサービスを提供しています。DFGCは、Fuseプラットフォーム上に私設レンディングプールを開設します。
 DFGC Fuseプールの特徴として、DFGCのガバナンストークンであるTXJPを貸し出し担保として採用し、他のETH、ステーブルコイン等の借り入れを可能とします。これにより、TXJP保有者におけるTXJPのユーティリティ向上を促進します。ETH、ステーブルコインを担保提供する流動性提供者は、貸し出し金利を獲得することができます。
 TXJPディストリビューション DFGC Fuseプールの大きな特徴がTXJPディストリビューションです。DFGC Fuseプールに流動性を提供することにより、一定の基準に基づいてTXJPが配布される予定です。受け取るTXJPの数については、アセット種別ごとのTXJP配布数量と流動性全体ボリュームによって変化します。詳細については、下記リンクより当コミュニティのコミュニティガイドをご確認ください。
@@ -124,7 +267,7 @@ TXJPディストリビューション DFGC Fuseプールの大きな特徴がTXJ
 関連リンク コミュニティガイド: https://docs.defigeek.xyz/dfgc-fuse-pool
 Discord: http://discord.gg/FQYXqVBEnh
 Twitter: https://twitter.com/DeFiGeekJapan
-本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテストのお知らせ</title><link>https://haruketh.github.io/landing-page/blog/yamato-protocol-8/</link><pubDate>Wed, 03 Nov 2021 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/yamato-protocol-8/</guid><description>※⚠️記事の内容は投稿時点のものです。
+本記事に関するご意見、質問は、上記DiscordからDeFiGeek Communityの広報部までご連絡ください。</description></item><item><title>Yamato Protocol - アルファテストのお知らせ</title><link>/blog/yamato-protocol-8/</link><pubDate>Wed, 03 Nov 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-8/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 2021年11月4日12時～
 RinkebyTestnetにてYamato Protocol 公開テストが開始されます。
@@ -139,7 +282,7 @@ UIデザイン（フロント設計）、基本動作（担保入、借入、返
 適宜改修を行いながら本番仕様のベータテストに移ります。
 アルファテストは最小限の稼働仕様のため、コミュニティメンバー向けのテストです。
 不具合や動作不良、表示不良などコミュニティチャット (仮設：yamatoバグバウンティ会場)にて報告をお願い致します。
-テストとコード改修を進め、続報をお届けします。</description></item><item><title>Yamato Protocol - Yamato DAO Token（YMT）アロケーション</title><link>https://haruketh.github.io/landing-page/blog/yamato-protocol-3/</link><pubDate>Fri, 03 Sep 2021 15:00:00 +0000</pubDate><guid>https://haruketh.github.io/landing-page/blog/yamato-protocol-3/</guid><description>※⚠️記事の内容は投稿時点のものです。
+テストとコード改修を進め、続報をお届けします。</description></item><item><title>Yamato Protocol - Yamato DAO Token（YMT）アロケーション</title><link>/blog/yamato-protocol-3/</link><pubDate>Fri, 03 Sep 2021 15:00:00 +0000</pubDate><guid>/blog/yamato-protocol-3/</guid><description>※⚠️記事の内容は投稿時点のものです。
 開発中につき、担保率・手数料を含む全ての仕様はメインネットローンチまで変更になる可能性があります。正式な仕様は公式ドキュメントで公開される予定です。
 本記事ではYMTの全体分布を説明いたします。
 YMTの全体分布 総発行数 10億YMT（1B YMT） 5% 5000万YMT コミュニティトレジャリー Yamato Protocolに関わる全員が、その発展のために活用することができる準備資金です。
